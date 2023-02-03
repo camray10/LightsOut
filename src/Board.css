@@ -1,0 +1,17 @@
+.Board {
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #000000;
+  position: absolute;
+  top: 10%;
+  left: 30%;
+}
+
+.Board-NewGame{
+ background-color: blueviolet;
+}
+
+.Board-winner{
+  background-color: rgb(30, 232, 30);
+  text-decoration: solid black;
+}
